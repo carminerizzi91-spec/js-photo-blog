@@ -2,3 +2,24 @@ body {
     font-family: 'Edu TAS Beginner', sans-serif;
     margin: 0;
 }
+
+/* HEADER */
+
+.myheader {
+    background-image: url("../img/wall.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.myheader h1 {
+    font-size: 6rem;
+    letter-spacing: 10px;
+}
+
+/* BACHECA */
+
+.board {
+    background-image: url("../img/cork.png");
+    background-size: cover;
+    background-position: center;
+}
